@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏, I'm Lochan</h1>
-<h3 align="center">Student | Web Dev Intern | Freelancer | Learning App Dev</h3>
-<p align="center">A passionate engineering student exploring different domains like web dev, data science, cloud computing, ai and blockchain. I'm currently into app dev. When I'm afk, I write poetry and play football.</p>
+<h3 align="center">Student | iOS Dev | Web Dev Intern | Freelancer</h3>
+<p align="center">A passionate engineering student exploring different domains like web dev, data science, cloud computing, ai and blockchain. I'm currently into iOS app dev. When I'm afk, I write poetry and play football.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanchugh&label=Profile%20views&color=0e75b6&style=flat" alt="lochanchugh" /> </p>
 

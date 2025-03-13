@@ -1,6 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm Lochan</h1>
 <h3 align="center">Student | iOS Dev | Freelancer</h3>
-<p align="center">A passionate engineering student exploring different domains like web dev, data science, cloud computing, ai and blockchain. I'm currently into iOS app dev. When I'm afk, I write poetry and play football.</p>
+<p align="center">An engineering student passionate about iOS app development, crafting seamless user experiences with Swift and SwiftUI. I’ve been an iOS intern at XYZ and founded the Swift Student Club at my college, where I taught iOS development to 30+ students. I’ve also worked on multiple iOS freelance projects, building apps for diverse use cases. I have explored various other tech fields, such as Web Dev, AI, cloud computing, and blockchain. When I'm AFK, you'll find me writing poetry or playing football.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanchugh&label=Profile%20views&color=0e75b6&style=flat" alt="lochanchugh" /> </p>
 
@@ -21,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lochanchugh&show_icons=true&locale=en" alt="lochanchugh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lochanchugh&" alt="lochanchugh" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=lochanchugh" alt="lochanchugh" /></p>

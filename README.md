@@ -21,6 +21,4 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=lochanchugh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lochanchugh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lochanchugh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lochanchugh" alt="GitHub Streak" /></a>

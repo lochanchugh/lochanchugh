@@ -21,4 +21,4 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lochanchugh" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lochanchugh&hide_border=true" alt="GitHub Streak" /></a>
